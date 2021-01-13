@@ -5,7 +5,7 @@
 * HASL or ENIG finish
 
 ## Installation
-Installing the Input Sync Combiner requires some basic level soldering and 2 traces that will need to be cut.
+Installing the Input Sync Combiner requires some basic level soldering and 2 traces that will need to be cut. This will only affect HV Sync signals, not CSync signals
 
 Step 1
 
