@@ -1,4 +1,4 @@
-# GBS-C_Sync-Combiners
+# GBS-C Sync Combiners
 
 # What are these?
 ## Plug N' Play Sync Combiner
